@@ -29,6 +29,10 @@ A desktop-based student management application built with Java Swing and SQLite.
 - `Sesi.java`: Stores the current username for the application session.
 - `*.form`: NetBeans GUI Builder form files.
 
+### Demo Login
+- Username: `Azzam`
+- Password: `123456789`
+
 ### Getting Started
 1. Clone or download this repository.
 2. Open the project in Apache NetBeans.
@@ -66,6 +70,10 @@ Aplikasi desktop untuk mengelola data siswa yang dibuat menggunakan Java Swing d
 - `Koneksi.java`: Koneksi database SQLite dan pembuatan tabel.
 - `Sesi.java`: Menyimpan nama pengguna selama sesi aplikasi.
 - `*.form`: File desain GUI dari NetBeans GUI Builder.
+
+### Akun Login Demo
+- Username: `Azzam`
+- Password: `123456789`
 
 ### Cara Menjalankan
 1. Clone atau unduh repository ini.
